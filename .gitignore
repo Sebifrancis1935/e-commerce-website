@@ -1,0 +1,84 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local development settings
+*.sqlite3
+*.db
+
+# Media files
+media/
+
+# Static files
+staticfiles/
+
+# Virtual environment
+env/
+.env
+
+# IDE files
+*.pyc
+.vscode/
+.idea/
+
+# Compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Log files
+*.log
+
+# Configuration files
+*.ini
+*.cfg
+
+# Dependency directories
+bin/
+lib/
+include/
+
+# Package files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Django generated files
+*.pot
+*.pyo
+*.pyc
+__pycache__/
+*.pyz
+
+# Ignore migrations
+**/migrations/
+
+# Ignore secrets file
+secrets.json
+
+# Ignore database configuration
+db.sqlite3
+
+# Ignore user-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Node.js
+node_modules/
+npm-debug.log*
+
+# Yarn
+yarn-error.log
+
+# Editor-specific files
+*~
